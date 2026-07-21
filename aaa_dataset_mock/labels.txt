@@ -1,0 +1,2 @@
+speaker1 bonafide_01 - - bonafide
+speaker1 spoof_01 - - spoof
